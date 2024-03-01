@@ -2,7 +2,7 @@
 
 <h3>Introduction and Goal:</h3>
 
-Welcome to the README file for the Airbnb NYC Visualization Project! Our aim is to explore the dynamic landscape of short-term rentals in New York City through interactive visualizations. By analyzing the distribution of Airbnb properties, pricing variations, and host behaviors, we seek to provide valuable insights for both hosts and travelers, facilitating informed decision-making in the bustling hospitality market of New York City.
+Welcome to the Airbnb NYC Visualization Project! Our aim is to explore the dynamic landscape of short-term rentals in New York City through interactive visualizations. By analyzing the distribution of Airbnb properties, pricing variations, and host behaviors, we seek to provide valuable insights for both hosts and travelers, facilitating informed decision-making in the bustling hospitality market of New York City.
 
 <h3>Analysis:</h3>
 
