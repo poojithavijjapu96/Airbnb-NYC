@@ -21,6 +21,7 @@ Our project offers a thorough examination of property types available in New Yor
 
 <h3>Report and Resources:</h3>
 
-The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: [Tableau Dashboard- AirBnB NYC] (https://public.tableau.com/views/AirbnbNYCExploringRentalDiversity/Dashboard1?:language=en-US&:sid=9C7BF978EF3849B7A662217448ABBDCA-0:0&:display_count=n&:origin=viz_share_link)
+The analysis findings are visually presented in a comprehensive Tableau dashboard accessible via the following link: [Tableau Dashboard-AirBnb NYC](https://public.tableau.com/views/AirbnbNYCExploringRentalDiversity/Dashboard1?:language=en-US&:sid=9C7BF978EF3849B7A662217448ABBDCA-0:0&:display_count=n&:origin=viz_share_link)
+
 
 For detailed analysis, insights, and recommendations, please refer to the report in the document "AIRBNB NYC.pdf".
